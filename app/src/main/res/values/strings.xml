@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TaskFlow Notes</string>
+    <string name="list_header">Daftar Catatan Tugas</string>
+    <string name="list_subheader">Simpan tugas, ide, dan catatan proyek ke database SQLite lokal.</string>
+    <string name="empty_state">Belum ada data tersimpan. Tekan tombol tambah untuk memasukkan catatan tugas pertama.</string>
+    <string name="add_task">Tambah Data</string>
+    <string name="input_header">Input Catatan Tugas</string>
+    <string name="input_subheader">Lengkapi form berikut lalu simpan ke database lokal.</string>
+    <string name="edit_header">Edit Catatan Tugas</string>
+    <string name="edit_subheader">Perbarui data tugas yang sudah tersimpan di database lokal.</string>
+    <string name="hint_title">Judul tugas</string>
+    <string name="hint_description">Deskripsi tugas</string>
+    <string name="hint_category">Kategori</string>
+    <string name="save">Simpan</string>
+    <string name="update">Perbarui</string>
+    <string name="back">Kembali</string>
+    <string name="error_required">Field ini tidak boleh kosong</string>
+    <string name="message_save_success">Data berhasil disimpan</string>
+    <string name="message_save_failed">Data gagal disimpan</string>
+    <string name="message_update_success">Data berhasil diperbarui</string>
+    <string name="message_update_failed">Data gagal diperbarui</string>
+    <string name="message_delete_success">Data berhasil dihapus</string>
+    <string name="message_delete_failed">Data gagal dihapus</string>
+    <string name="message_data_not_found">Data tidak ditemukan</string>
+    <string name="detail_header">Rincian Catatan Tugas</string>
+    <string name="detail_subheader">Lihat isi lengkap data, lalu edit atau hapus bila diperlukan.</string>
+    <string name="detail_description_label">Deskripsi Lengkap</string>
+    <string name="detail_created_at">Dibuat pada %1$s</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="delete_dialog_title">Hapus data?</string>
+    <string name="delete_dialog_message">Data yang dihapus tidak dapat dikembalikan lagi.</string>
+
+    <string-array name="task_categories">
+        <item>Kuliah</item>
+        <item>Pribadi</item>
+        <item>Organisasi</item>
+        <item>Proyek</item>
+        <item>Penting</item>
+    </string-array>
+</resources>
